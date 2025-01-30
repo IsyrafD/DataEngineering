@@ -14,7 +14,7 @@ To extract, transform, and load product data from a shopping/business website an
 2. **NURUL SYAFIKAH NATASYA BINTI MOHD SALLEH (A193668)**: Price, Discount  
 3. **SITI NURSOLEHAH BINTI ZAMRI (A195524)**: Ratings, Reviews  
 4. **ISYRAF DANISY BIN MAT ZAMRI (A193888)**: SKU, Description  
-5. **MUHAMMAD NAJMI BIN NOR BAHRIN**: Installment, Product Image URL  
+5. **MUHAMMAD NAJMI BIN NOR BAHRIN ()**: Installment, Product Image URL  
 
 ### **Dataset**
 - **Website**: [Al-Ikhsan - Men’s Lifestyle Collection](https://al-ikhsan.com/collections/mens-lifestyle)
